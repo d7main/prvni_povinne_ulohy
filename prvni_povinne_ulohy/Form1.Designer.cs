@@ -92,7 +92,7 @@
             button1.BackColor = SystemColors.Window;
             button1.Font = new Font("Segoe UI", 12F);
             button1.ForeColor = SystemColors.ControlText;
-            button1.Location = new Point(257, 148);
+            button1.Location = new Point(228, 148);
             button1.Name = "button1";
             button1.Size = new Size(114, 38);
             button1.TabIndex = 4;
